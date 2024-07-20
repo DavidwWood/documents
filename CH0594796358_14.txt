@@ -1,0 +1,18 @@
+SG Reference: PTP-227555793 / 7EARLY REDEMPTION
+In addition to any redemption of the Notes prior to the Maturity Date for (special) tax or regulatory reasons, for force majeure event, administrator/benchmark event or
+in case of an Event of Default (in each case as further set out in the Conditions as defined below) or upon the occurrence of an early redemption or termination event
+as specified in the relevant Additional Terms and Conditions (if any) in the SG/SGIS Debt Instruments Issuance Programme Base Prospectus effective on Launch Date
+(the “Base Prospectus ”, which term includes any supplements to such Base Prospectus as of such date), in each case at an early redemption amount further specified
+in the Final Terms, the Notes will be redeemed early as follows:
+Automatic Early Redemption
+Automatic Early Redemption
+Amount(s)Unless previously redeemed, if an Automatic Early Redemption Event has occurred, then the Issuer shall redeem early the
+Notes on Automatic Early Redemption Date(i) (i from 1 to 7), in accordance with the following provisions in respect of each
+Note:
+Automatic Early Redemption Amount(i) = Specified Denomination x 100%
+Automatic Early Redemption
+Date(i)
+(i from 1 to 7)27 October 2021, 27 January 2022, 27 April 2022, 27 July 2022, 27 October 2022, 27 January 2023 and 27 April 2023
+Automatic Early Redemption
+Eventis deemed to have occurred, as determined by the Calculation Agent, if on a Valuation Date(i) (i from 1 to 7),
+WorstPerformance(i) is higher than or equal to 0%.

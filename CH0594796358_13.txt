@@ -1,0 +1,17 @@
+FINAL REDEMPTION
+Final Redemption Amount Unless previously redeemed, the Issuer shall redeem the Notes on the Maturity Date, in accordance with the following provi-
+sions in respect of each Note:
+Scenario 1:
+If on Valuation Date(8), WorstPerformance(8) is higher than or equal to -25%, then:
+Final Redemption Amount = Specified Denomination x 100%
+Scenario 2:
+If on Valuation Date(8), WorstPerformance(8) is lower than -25%, then:
+Final Redemption Amount = Physical Delivery Amount(8)
+Physical Delivery Amount (8)An integer number of Deliverable Asset(k) determined and calculated pursuant to the following formula:
+Physical Delivery Amount(8) = Specified Denomination / Strike(k).
+with:
+- (k) being the Underlying with the lowest Performance(8,k), provided that if several Underlyings achieve the same lowest
+Performance(8,k), the Underlying having the largest market capitalisation is retained;
+- The fractional part of this number, if any, is paid in cash: the cash amount denominated in the Specified Currency is calculat-
+ed by multiplying (a) the fractional part by (b) the relevant Closing Price of the Underlying as of Valuation Date(8). This cash
+amount is rounded up to 4 decimals.Termsheet

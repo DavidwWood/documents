@@ -1,0 +1,11 @@
+1. PRODUCT DESCRIPTION
+OVERVIEW
+The Phoenix With Guaranteed Coupons Worst Of is a product that offers the investor a Coupon which is higher than the Coupon of a comparable standard bond. In
+return for this, the investor takes the risk that he will receive the physical deliveryof the worst performing Underlying at the Maturity Date (27 July 2023) of the product.
+This will be the case if the Closing Price of at least one of the Underlyings is lower than the Strike (75% of S(0,k)) at the last Valuation Date (20 July 2023). In this
+scenario, the Final Redemption Amount will be less than 100% of the Specified Denomination.
+In addition, the Notes feature an automatic early redemption option: if on any Valuation Date during the term of the Notes, the performance of each Underlying(k) is
+higher than or equal to 0%, the Notes will be automatically redeemed in cash on the Automatic Early Redemption Date immediately following such Valuation Date (and
+therefore, prior to the (scheduled) Maturity Date (27 July 2023) of the Notes). The Note will then be redeemed at an amount equal to 100% of the Specified Denomination.
+Payments due under the Notes are guaranteed by the Guarantor by a first demand guarantee governed by French law (Paris Courts  having jurisdiction) without
+recourse to the Issuer.

@@ -1,0 +1,4 @@
+Interest Commencement Date Issue Date
+Valuation Date(i) (i from 1 to 7) 20 October 2021, 20 January 2022, 20 April 2022, 20 July 2022, 20 October 2022, 20 January 2023, 20 April 2023
+Valuation Date(8) 20 July 2023 (i.e. "last Valuation Date")Termsheet
+SG Reference: PTP-227555792 / 7Maturity Date 27 July 2023

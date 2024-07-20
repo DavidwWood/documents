@@ -1,0 +1,14 @@
+WorstPerformance(i)
+(i from 1 to 8)means the Minimum, for k from 1 to 3, of Performance(i,k)
+Performance(i,k)
+(i from 1 to 8)
+(k from 1 to 3)means (S(i,k) / S(0,k)) - 100%
+S(i,k)
+(i from 0 to 8)
+(k from 1 to 3)means in respect of any Valuation Date(i), the Closing Price of the Underlying(k)
+Closing Price at first Valuation Date:
+for ViacomCBS Inc: S(0,1) = USD 40.39
+for Netflix Inc: S(0,2) = USD 531.05
+for Facebook Inc: S(0,3) = USD 341.66
+Strike(k)
+(k from 1 to 3)75% x S(0,k)

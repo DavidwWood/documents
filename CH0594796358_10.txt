@@ -1,0 +1,10 @@
+Underlying(s): The following Shares (each an "Underlying(k)" and together the "Basket") as defined below:
+k Company Bloomberg Ticker Exchange Website Strike
+1ViacomCBS Inc VIAC UW Nasdaq Stock Ex-
+changewww.cbscorporation
+.comUSD 30.2925
+2Netflix Inc NFLX UW Nasdaq Stock Ex-
+changewww.netflix.com USD 398.2875
+3Facebook Inc FB UW Nasdaq Stock Ex-
+changewww.facebook.com USD 256.245
+ViacomCBS Inc : ISIN : US92556H2067; Netflix Inc : ISIN : US64110L1061; Facebook Inc : ISIN : US30303M1027

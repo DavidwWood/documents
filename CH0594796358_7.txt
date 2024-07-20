@@ -1,0 +1,5 @@
+Issue Size / Aggregate Nominal
+AmountUSD 1,000,000 (i.e. 1,000 Notes) (subject to the issue of additional Notes)
+Specified Currency / Specified
+DenominationUSD 1,000
+Issue Price 99.75%

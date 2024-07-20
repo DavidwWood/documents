@@ -1,0 +1,8 @@
+FIXED COUPON(S)
+Fixed Coupon Amount(s) Unless previously redeemed, on each Interest Payment Date, the Issuer shall pay to the Noteholders, for each Note, an
+amount determined by the Calculation Agent as follows:
+Rate of Interest x Specified Denomination. Such amount being rounded up to 6 decimal places.
+Rate of Interest 1.85% payable in arrear
+Interest Payment Date(s) 27 October 2021, 27 January 2022, 27 April 2022, 27 July 2022, 27 October 2022, 27 January 2023, 27 April 2023 and the Ma-
+turity Date
+Business Day Convention Following Business Day Convention (unadjusted)
